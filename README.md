@@ -19,4 +19,4 @@
 ## 4. 루미큐브
 : 1930년대 초 이스라엘에서 개발된 보드게임의 일종으로,  빨강·파랑·검정·주황의 4가지 색깔로 구분된 106개로 이루어진 타일을 가지고 하는 게임.
 
-! [rummikub](https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/728db470-c570-4306-ab1c-ddd094ae56d1.jpg._CB294738744_.jpg)
+![rummikub](https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/728db470-c570-4306-ab1c-ddd094ae56d1.jpg._CB294738744_.jpg)
