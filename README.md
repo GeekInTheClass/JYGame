@@ -16,7 +16,7 @@
 
 ![chess](http://cafefiles.naver.net/20100913_102/ttbe_1284373530928JS95G_jpg/4_5yuveleska_ttbe.jpg)
 
-## 4. 오델로
-: 오델로(Othello)는 보드 게임의 한 종류이다. 리버시(Reversi)라고도 불린다. 두 명이 가로 세로 8칸의 오델로 판 위에서 한쪽은 검은색, 다른 한쪽은 흰색인 돌을 번갈아 놓으며 진행된다.
+## 4. 루미큐브
+: 1930년대 초 이스라엘에서 개발된 보드게임의 일종으로,  빨강·파랑·검정·주황의 4가지 색깔로 구분된 106개로 이루어진 타일을 가지고 하는 게임.
 
-![othello](http://shop1.phinf.naver.net/20171114_225/aainedu_1510638081888bfSxN_JPEG/42348278792896720_1589026501.jpg)
+! [rummikub](https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/728db470-c570-4306-ab1c-ddd094ae56d1.jpg._CB294738744_.jpg)
